@@ -8,7 +8,7 @@
   ],
   "description" : "Sparky Hello Plugin",
   "license" : "Artistic-2.0",
-  "name" : "Sparky-Plugin-Hello",
+  "name" : "Sparky::Plugin::Hello",
   "perl" : "6.*",
   "provides" : {
     "Sparky::Plugin::Hello" : "lib/Sparky/Plugin/Hello.pm6"
